@@ -1,0 +1,13 @@
+name = "Create : Linear Motion Simulated"
+filename = "create_linear_motion_simulated-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RsyMniH0/versions/hTOsSTbP/create_linear_motion_simulated-0.2.0.jar"
+hash-format = "sha512"
+hash = "b01d8cb94e247a3aa17556b56e1da76272100521f94d51d5c6d9fedf0356a5dc314d0be4cdb47a5b1af02f4b56276607386a55b941f9b1cf0fedeff2fe570731"
+
+[update]
+[update.modrinth]
+mod-id = "RsyMniH0"
+version = "hTOsSTbP"
